@@ -1,0 +1,5 @@
+item_name,current_quantity,reorder_threshold
+Pens,10,20
+Notebooks,50,40
+Markers,5,15
+Staplers,0,10
